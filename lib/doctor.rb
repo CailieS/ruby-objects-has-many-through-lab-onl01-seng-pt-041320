@@ -27,7 +27,6 @@ class Doctor
      
     appointment.patient 
     
-      ## each appointment has a patient associated with it
       
     end
   
